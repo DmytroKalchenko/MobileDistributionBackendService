@@ -20,7 +20,7 @@ steps:
     location: 'Central US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/DmytroKalchenko/MobileDistributionBackendService/main/CreateWebApp/azuredeploy.json'
-    overrideParameters: '-projectName MobileDistributionBackendService'
+    overrideParameters: '-projectName MDBS'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
 
